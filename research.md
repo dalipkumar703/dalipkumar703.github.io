@@ -1,9 +1,9 @@
 
 
   
-##Municipality Transparency Delhi##
-###INFORMATION ON ELECTED OFFICIALS AND MUNICIPALITY STAFF###
-****(8 indicators)****
+# Municipality Transparency Delhi
+## INFORMATION ON ELECTED OFFICIALS AND MUNICIPALITY STAFF 
+### (8 indicators)
 
 <table>
   <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
