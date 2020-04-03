@@ -16,3 +16,14 @@
   <tr><td>7</td><td>The agenda of municipal and civic activities is published.</td><td>N.a</td></tr>
    <tr><td>8</td><td>A list of work posts in the municipality and the remuneration for each post is published.</td><td>N.a</td></tr>
   </table>
+  
+## INFORMATION ON THE ORGANIZATION AND PATRIMONY OF THE MUNICIPALITY 33.33%
+### (1 out of 3 indicators)
+
+<table>
+  <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+  <tr><td>1</td><td>The different governing bodies and their functions are specified.</td><td></td><td></td></tr>
+    <tr><td>2</td><td>The different governing bodies and their functions are specified.</td><td></td><td></td></tr>
+  <tr><td>3</td><td>The different governing bodies and their functions are specified.</td><td></td><td></td></tr>
+
+  </table>
