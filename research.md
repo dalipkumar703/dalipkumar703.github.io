@@ -22,8 +22,8 @@
 
 <table>
   <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
-  <tr><td>1</td><td>The different governing bodies and their functions are specified.</td><td></td><td></td></tr>
-    <tr><td>2</td><td>The different governing bodies and their functions are specified.</td><td></td><td></td></tr>
-  <tr><td>3</td><td>The different governing bodies and their functions are specified.</td><td></td><td></td></tr>
+  <tr><td>1</td><td>The different governing bodies and their functions are specified.</td><td>N.a</td><td></td></tr>
+    <tr><td>2</td><td>The list of properties (offices, premises, etc.), both own and leased, occupied and / or attached to the Municipality is published.</td><td>N.a</td><td></td></tr>
+  <tr><td>3</td><td>The number of official vehicles assigned to the municipality (owned or leased) are published.</td><td>N.a</td><td></td></tr>
 
   </table>
