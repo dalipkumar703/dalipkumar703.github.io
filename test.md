@@ -18,6 +18,9 @@
     <li><a data-toggle="pill" href="#menu1">Menu 1</a></li>
     <li><a data-toggle="pill" href="#menu2">Menu 2</a></li>
     <li><a data-toggle="pill" href="#menu3">Menu 3</a></li>
+    <li><a data-toggle="pill" href="#menu4">Menu 4</a></li>
+    <li><a data-toggle="pill" href="#menu5">Menu 5</a></li>
+    <li><a data-toggle="pill" href="#menu6">Menu 6</a></li>
   </ul>
   
   <div class="tab-content">
@@ -35,6 +38,18 @@
     </div>
     <div id="menu3" class="tab-pane fade">
       <h3>Menu 3</h3>
+      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+    </div>
+  <div id="menu4" class="tab-pane fade">
+      <h3>Menu 4</h3>
+      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+    </div>
+  <div id="menu5" class="tab-pane fade">
+      <h3>Menu 5</h3>
+      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+    </div>
+  <div id="menu6" class="tab-pane fade">
+      <h3>Menu 6</h3>
       <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
     </div>
   </div>
