@@ -37,3 +37,10 @@
     <tr><td>2</td><td>The minutes of plenary sessions or memory of Municipal meetings are published.</td><td><a href="https://www.ndmc.gov.in/departments/Annnual_Audit_Reports_MM.aspx">Link</a></td><td></td></tr>
   <tr><td>3</td><td>There exists a "code of ethics or good governance" and / or a transparency ordinance of the municipality and it is published.</td><td><a href="https://www.ndmc.gov.in/departments/Departments/council/The%20Gazette%20of%20India.pdf">Link</a></td><td></td></tr>
 </table>
+## PLANNING AND ORGANIZATION OF THE MUNICIPALITY 100%
+### (1 out of 1 indicators)
+<table>
+   <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+  <tr><td>1</td><td>	The recruitment processes are published.</td><td><a href="https://www.ndmc.gov.in/departments/personnel_department.aspx">Link</a></td><td></td></tr>
+   
+</table>
