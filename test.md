@@ -1,5 +1,5 @@
 
-<html lang="en">
+
 <head>
   <title>Bootstrap Example</title>
   <meta charset="utf-8">
@@ -13,7 +13,7 @@
 <div class="container">
   <h2>Index based on Dyntra Platform parameters</h2>
   <ul class="nav nav-pills">
-    <li class="active"><a data-toggle="pill" href="#home"Muncipality Transparency</a></li>
+    <li class="active"><a data-toggle="pill" href="#home">Muncipality Transparency</a></li>
     <li><a data-toggle="pill" href="#menu1"></a></li>
     <li><a data-toggle="pill" href="#menu2">Menu 2</a></li>
     <li><a data-toggle="pill" href="#menu3">Menu 3</a></li>
@@ -99,5 +99,5 @@
 </div>
 
 </body>
-</html>
+
   
