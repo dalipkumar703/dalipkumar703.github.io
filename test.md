@@ -13,8 +13,8 @@
 <div class="container">
   <h2>Index based on Dyntra Platform parameters</h2>
   <ul class="nav nav-pills">
-    <li class="active"><a data-toggle="pill" href="#home">Home</a></li>
-    <li><a data-toggle="pill" href="#menu1">Muncipality Transparency</a></li>
+    <li class="active"><a data-toggle="pill" href="#home"Muncipality Transparency</a></li>
+    <li><a data-toggle="pill" href="#menu1"></a></li>
     <li><a data-toggle="pill" href="#menu2">Menu 2</a></li>
     <li><a data-toggle="pill" href="#menu3">Menu 3</a></li>
     <li><a data-toggle="pill" href="#menu4">Menu 4</a></li>
@@ -70,7 +70,7 @@
    
 </table>
 
-    </div>
+   </div>
     <div id="menu1" class="tab-pane fade">
       <h3>Menu 1</h3>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
