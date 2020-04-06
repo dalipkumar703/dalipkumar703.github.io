@@ -12,14 +12,13 @@
   <h2>Index based on Dyntra Platform parameters</h2>
   <ul class="nav nav-pills">
     <li class="active"><a data-toggle="pill" href="#home">Muncipality Transparency</a></li>
-    <li><a data-toggle="pill" href="#menu1"></a></li>
+    <li><a data-toggle="pill" href="#menu1">Open Data</a></li>
     <li><a data-toggle="pill" href="#menu2">
 Access to information and active advertising</a></li>
     <li><a data-toggle="pill" href="#menu3">Citizen participation and collaboration</a></li>
     <li><a data-toggle="pill" href="#menu4">Economic and financial transparency</a></li>
     <li><a data-toggle="pill" href="#menu5">Transparency in contracting services</a></li>
     <li><a data-toggle="pill" href="#menu6">Public Works and Urban Planning</a></li>
-     <li><a data-toggle="pill" href="#menu7">Open Data</a></li>
   </ul>
   
   <div class="tab-content">
