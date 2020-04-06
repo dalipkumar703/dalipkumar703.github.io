@@ -25,9 +25,9 @@
   <div class="tab-content">
     <div id="home" class="tab-pane fade in active">
       
-# Municipality Transparency Delhi
-## INFORMATION ON ELECTED OFFICIALS AND MUNICIPALITY STAFF 
-### (8 indicators)
+<h2> Municipality Transparency Delhi </h2>
+<h3> INFORMATION ON ELECTED OFFICIALS AND MUNICIPALITY STAFF </h3>
+<h4> (8 indicators) </h4>
 
 <table>
   <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
@@ -41,8 +41,8 @@
    <tr><td>8</td><td>A list of work posts in the municipality and the remuneration for each post is published.</td><td>N.a</td></tr>
   </table>
   
-## INFORMATION ON THE ORGANIZATION AND PATRIMONY OF THE MUNICIPALITY
-### (1 out of 3 indicators)
+<h3> INFORMATION ON THE ORGANIZATION AND PATRIMONY OF THE MUNICIPALITY</h3>
+<h4> (1 out of 3 indicators) </h4>
 
 <table>
   <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
@@ -52,8 +52,8 @@
 
   </table>
 
-## INFORMATION ON MUNICIPAL RULES AND INSTITUTIONS 100%
-### (3 out of 3 indicators)
+<h3> INFORMATION ON MUNICIPAL RULES AND INSTITUTIONS 100% </h3>
+<h4> (3 out of 3 indicators) </h4>
 
 <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
@@ -62,8 +62,8 @@
   <tr><td>3</td><td>There exists a "code of ethics or good governance" and / or a transparency ordinance of the municipality and it is published.</td><td><a href="https://www.ndmc.gov.in/departments/Departments/council/The%20Gazette%20of%20India.pdf">Link</a></td><td></td></tr>
 </table>
 
-## PLANNING AND ORGANIZATION OF THE MUNICIPALITY 100%
-### (1 out of 1 indicators)
+<h3> PLANNING AND ORGANIZATION OF THE MUNICIPALITY 100% </h3>
+<h4> (1 out of 1 indicators) </h4>
 <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
   <tr><td>1</td><td>	The recruitment processes are published.</td><td><a href="https://www.ndmc.gov.in/departments/personnel_department.aspx">Link</a></td><td></td></tr>
