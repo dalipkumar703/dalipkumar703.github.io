@@ -103,8 +103,22 @@ Access to information and active advertising</a></li>
 </table>
     </div>
     <div id="menu3" class="tab-pane fade">
-      <h3>Menu 3</h3>
-      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+  <h3>CITIZEN PARTICIPATION AND COLLABORATION 66.67% </h3>
+  <h4>INFORMATION AND DEGREE OF COMMITMENT WITH CITIZENSHIP 66.67%</h4>
+  <h4>(6 out of 9 indicators)</h4>
+     <table>
+   <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+  <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+   <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+    <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+     <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+</table>
     </div>
   <div id="menu4" class="tab-pane fade">
       <h3>Menu 4</h3>
