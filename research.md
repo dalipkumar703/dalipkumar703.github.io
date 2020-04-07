@@ -71,12 +71,36 @@ Access to information and active advertising</a></li>
 
    </div>
     <div id="menu1" class="tab-pane fade">
-      <h3>Menu 1</h3>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    </div>
+  <h3> OPEN DATA 100% </h3>
+  <h4>OPEN DATA 100%</h4>
+  <h4>(1 of 1 indicators)</h4>
+      <table>
+   <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+  <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+   
+</table>
+
+ </div>
     <div id="menu2" class="tab-pane fade">
-      <h3>Menu 2</h3>
-      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+  <h3>   ACCESS TO INFORMATION AND ACTIVE ADVERTISING 100%</h3>
+  <h4>PUBLIC COMMUNICATION. 100%</h4>
+  <h4>(12 out of 12 indicators)</h4>
+      <table>
+   <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+  <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+   <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+    <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+     <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+</table>
     </div>
     <div id="menu3" class="tab-pane fade">
       <h3>Menu 3</h3>
