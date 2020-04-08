@@ -108,8 +108,8 @@ Access to information and active advertising</a></li>
   <h4>(6 out of 9 indicators)</h4>
      <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
-  <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-   <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+  <tr><td>1</td><td>There are discussion forums on the municipal website.</td><td>N.a</td><td></td></tr>
+   <tr><td>2</td><td>The municipal Strategic Plan (or Strategic Map) is approved and is published.</td><td>N.a</td><td></td></tr>
         <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
         <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
     <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
