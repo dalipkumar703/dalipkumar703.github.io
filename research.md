@@ -130,6 +130,7 @@ Access to information and active advertising</a></li>
   <h3> ECONOMIC AND BUDGETARY INFORMATION 75%</h3>
   <h4>(3 out of 4 indicators)</h4>
   <table>
+    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
   <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
    <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
         <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
@@ -143,17 +144,62 @@ Access to information and active advertising</a></li>
 </table>
     </div>
   <div id="menu5" class="tab-pane fade">
-      <h3>Menu 5</h3>
-      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+  <h3>TRANSPARENCY IN CONTRACTING SERVICES 60%</h3>
+  <h4>CONTRACTING SERVICES PROCEDURES 100%</h4>
+  <h5>(2 out of 2 indicators)</h5>
+     <table>
+       <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+  <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+   <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+  </table>
+  <h4>  RELATIONS AND OPERATIONS WITH SUPPLIERS AND CONTRACTORS 0%</h4>
+  <h5>(0 out of 1 indicators)</h5>
+  <table>
+      <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+  </table>
+  <h4>  CONTRACTS, AGREEMENTS AND GRANTS 50%</h4>
+  <h5>(1 out of 2 indicators)</h5>
+  <table>
+    <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+     <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+</table>
     </div>
   <div id="menu6" class="tab-pane fade">
-      <h3>Menu 6</h3>
-      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+  <h4> PUBLIC WORKS AND URBAN PLANNING 33.33%</h4>
+  <h5> URBAN PLANNING AND ZONING AGREEMENTS 100% </h5>
+  <h5>(2 out of 2 indicators)</h5>
+     <table>
+    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+  <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+   <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+  </table>
+  <h4> PUBLIC WORKS ANNOUNCEMENTS AND TENDERS 0%</h4>
+  <h5>(0 out of 2 indicators)</h5>
+  <table>
+      <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+  </table>
+  <h4> INFORMATION ON COMPETITORS, OFFERS AND RESOLUTIONS 0%</h4>
+  <h5>(0 out of 2 indicators)</h5>
+  <table>
+      <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+    <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+     <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+  </table>
+  <h4>MONITORING AND CONTROL OF THE EXECUTION OF WORKS 33.33%</h4>
+  <h5>(1 out of 3 indicators)</h5>
+  <table>
+      <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+</table>
     </div>
-     <div id="menu6" class="tab-pane fade">
-      <h3>Menu 7</h3>
-      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-    </div>
+     
   </div>
 </div>
 
