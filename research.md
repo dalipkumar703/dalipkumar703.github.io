@@ -131,9 +131,9 @@ Access to information and active advertising</a></li>
   <h4>(3 out of 4 indicators)</h4>
   <table>
     <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
-  <tr><td>1</td><td>The municipal Budgets are published with a description of the main budget items and actualised updates on their status of implementation.</td><td>N.a</td><td></td></tr>
-   <tr><td>2</td><td>	Annual Accounts / General Account of the municipality (Balance Sheet, economic and patrimonial result, Memory, and settlement of the budget) are published.</td><td>N.a</td><td></td></tr>
-        <tr><td>3</td><td>The income and expenses statements (Municipality, public bodies and entities) are published</td><td>N.a</td><td></td></tr>
+  <tr><td>1</td><td>The municipal Budgets are published with a description of the main budget items and actualised updates on their status of implementation.</td><td><a href="https://www.ndmc.gov.in/departments/accounts.aspx">Link</a></td><td></td></tr>
+   <tr><td>2</td><td>	Annual Accounts / General Account of the municipality (Balance Sheet, economic and patrimonial result, Memory, and settlement of the budget) are published.</td><td><a href="https://www.ndmc.gov.in/departments/accounts.aspx">Link</a></td><td></td></tr>
+        <tr><td>3</td><td>The income and expenses statements (Municipality, public bodies and entities) are published</td><td><a href="https://www.ndmc.gov.in/departments/accounts.aspx">Link</a></td><td></td></tr>
         <tr><td>4</td><td>There exists an Economic-Financial Transparency viewer where the budget data and its execution status are displayed in a graphical, clear and accessible way, and is understandable by the citizens.</td><td>N.a</td><td></td></tr>
 </table>
     </div>
