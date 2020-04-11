@@ -87,19 +87,24 @@ Access to information and active advertising</a></li>
   <h4>(12 out of 12 indicators)</h4>
       <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
-  <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-   <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-    <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-     <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+  <tr><td>1</td><td>The institution has a web 2.0.</td><td>N.a</td><td></td></tr>
+   <tr><td>2</td><td>	Institutional web is Responsive Design (Adaptive to Mobile devices).</td><td>N.a</td><td></td></tr>
+        <tr><td>3</td><td>	There is a news module on the web.</td><td>N.a</td><td></td></tr>
+        <tr><td>4</td><td>You can see the Municipal's website sitemap.</td><td>N.a</td><td></td></tr>
+    <tr><td>5</td><td>There is a module on the institutional website that allows universal accessibility to the published information.</td><td>N.a</td><td></td></tr>
+     <tr><td>6</td><td>There is an indexed search box within the Website.</td><td>N.a</td><td></td></tr>
+        <tr><td>7</td><td>There is a contact email.</td><td>N.a</td><td></td></tr>
+        <tr><td>8</td><td>There is a transparency portal or the transparency information is found in a structured way within the institutional website.</td><td>N.a</td><td></td></tr>
+        <tr><td>9</td><td>The municipal social networks are integrated within the website.</td><td>N.a</td><td></td></tr>
+        <tr><td>10</td><td>There is a mailbox of the Mayor.</td><td>N.a</td><td></td></tr>
+        <tr><td>11</td><td>	There is a complaints and claims mailbox.</td><td>N.a</td><td></td></tr>
+        <tr><td>12</td><td>All the transparency information within the institutional web or transparency portal is indexed.</td><td>N.a</td><td></td></tr>
+  </table>
+   <h4>M-GOVERNMENT (MOBILE GOVERNMENT) 100%</h4>
+  <h4>(1 out of 1 indicators)</h4>
+  <table>
+     <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+        <tr><td>1</td><td>Municipality has mobile applications that allow access to public information.</td><td>N.a</td><td></td></tr>
 </table>
     </div>
     <div id="menu3" class="tab-pane fade">
