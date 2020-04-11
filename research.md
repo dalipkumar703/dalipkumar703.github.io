@@ -190,7 +190,7 @@ Access to information and active advertising</a></li>
       <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
         <tr><td>1</td><td>Accurate information is provided on each of the major infrastructure projects that are in progress (Objectives of the work and municipal manager)</td><td>N.a</td><td></td></tr>
         <tr><td>2</td><td>There exists some tool or viewer that allows to know the public works and infrastructures carried out, as well as data on the status, budget and evolution of the same.</td><td>N.a</td><td></td></tr>
-        <tr><td>3</td><td>he City Council has an Integral Territorial management system and/or urban planning.</td><td>N.a</td><td></td></tr>
+        <tr><td>3</td><td>The City Council has an Integral Territorial management system and/or urban planning.</td><td>N.a</td><td></td></tr>
 </table>
     </div>
      
