@@ -143,22 +143,22 @@ Access to information and active advertising</a></li>
   <h5>(2 out of 2 indicators)</h5>
      <table>
        <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
-  <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-   <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+  <tr><td>1</td><td>There exist open, objective and transparent public contracting formulas or mechanism.</td><td>N.a</td><td></td></tr>
+   <tr><td>2</td><td>The contracting processes are public and open.</td><td>N.a</td><td></td></tr>
   </table>
   <h4>  RELATIONS AND OPERATIONS WITH SUPPLIERS AND CONTRACTORS 0%</h4>
   <h5>(0 out of 1 indicators)</h5>
   <table>
-      <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+      <tr><td>1</td><td>The list and / or the amount of operations with the major suppliers, contractors and bidders with the municipality is published.</td><td>N.a</td><td></td></tr>
+ 
   </table>
   <h4>  CONTRACTS, AGREEMENTS AND GRANTS 50%</h4>
   <h5>(1 out of 2 indicators)</h5>
   <table>
-    <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-     <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+      <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+     <tr><td>1</td><td>All the formalised contracts are published indicating the subject, the amount of bidding and award, the used procedure, the instruments through which it has been publicized, the number of participating tenderers in the procedure and the identity of the awardees.</td><td>N.a</td><td></td></tr>
+        <tr><td>2</td><td>The granted subsidies and public aids are published indicating their amount, objective or purpose, and beneficiaries.</td><td>N.a</td><td></td></tr>
 </table>
     </div>
   <div id="menu6" class="tab-pane fade">
