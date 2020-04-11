@@ -110,14 +110,13 @@ Access to information and active advertising</a></li>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
   <tr><td>1</td><td>There are discussion forums on the municipal website.</td><td>N.a</td><td></td></tr>
    <tr><td>2</td><td>The municipal Strategic Plan (or Strategic Map) is approved and is published.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-    <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-     <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>3</td><td>There exists a citizen participation regulation and it is published.</td><td>N.a</td><td></td></tr>
+        <tr><td>4</td><td>Suggestions and citizen participation in preparing municipal budgets are made possible.</td><td>N.a</td><td></td></tr>
+    <tr><td>5</td><td>There is a Citizen Care Office.</td><td><a href="ndmc.gov.in/contact_us/contact_us.aspx">Link</a></td><td></td></tr>
+     <tr><td>6</td><td>There exists a municipal communication and incidents tool (damages, repairs, etc.)</td><td>N.a</td><td></td></tr>
+        <tr><td>7</td><td>	There exists a tool or online form that allows the request of public information from citizens.</td><td><a href="https://www.ndmc.gov.in/rightinformationAct/Default.aspx">Link</a></td><td></td></tr>
+        <tr><td>8</td><td>There exists a tool or a form that allows citizens to make proposals or petitions to the governing bodies of the municipality.</td><td>N.a</td><td></td></tr>
+        <tr><td>9</td><td>Information regarding Accountability is published through a tool, or a viewer, that allows citizens to know the degree of compliance with electoral and / or government commitments during the legislature.</td><td>N.a</td><td></td></tr>
 </table>
     </div>
   <div id="menu4" class="tab-pane fade">
