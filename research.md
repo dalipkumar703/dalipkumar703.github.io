@@ -125,6 +125,7 @@ Access to information and active advertising</a></li>
   <h4>(1 out of 1 indicators)</h4>
        <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
+           <tr><td>1</td><td>The amount of municipal debt is published.</td><td>N.a</td><td></td></tr>
   </table>
   <h3> ECONOMIC AND BUDGETARY INFORMATION 75%</h3>
   <h4>(3 out of 4 indicators)</h4>
