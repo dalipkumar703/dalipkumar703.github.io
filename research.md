@@ -167,30 +167,30 @@ Access to information and active advertising</a></li>
   <h5>(2 out of 2 indicators)</h5>
      <table>
     <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
-  <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-   <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+  <tr><td>1</td><td>There is a visible section on the website dedicated to urbanism.</td><td>N.a</td><td></td></tr>
+   <tr><td>1</td><td>The General Urban Management Plan or equivalent document is published.</td><td>N.a</td><td></td></tr>
   </table>
   <h4> PUBLIC WORKS ANNOUNCEMENTS AND TENDERS 0%</h4>
   <h5>(0 out of 2 indicators)</h5>
   <table>
       <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>Accurate information about the current legislation on urban management of the municipality is published.</td><td>N.a</td><td></td></tr>
+        <tr><td>2</td><td>The projects, specifications and bidding criteria of the most important public works are published.</td><td>N.a</td><td></td></tr>
   </table>
   <h4> INFORMATION ON COMPETITORS, OFFERS AND RESOLUTIONS 0%</h4>
   <h5>(0 out of 2 indicators)</h5>
   <table>
       <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
-    <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-     <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+    <tr><td>1</td><td>The list of companies that have participated in public works biddings is published.</td><td><a href="https://www.ndmc.gov.in/departments/Departments/Civil/Registered%20Contractors%20in%20Civil%20Department_08062017.pdf">Link</a></td><td></td></tr>
+     <tr><td>2</td><td>The names of the companies that have executed the most important urbanization works are published.</td><td>N.a</td><td></td></tr>
   </table>
   <h4>MONITORING AND CONTROL OF THE EXECUTION OF WORKS 33.33%</h4>
   <h5>(1 out of 3 indicators)</h5>
   <table>
       <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
-        <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
+        <tr><td>1</td><td>Accurate information is provided on each of the major infrastructure projects that are in progress (Objectives of the work and municipal manager)</td><td>N.a</td><td></td></tr>
+        <tr><td>2</td><td>There exists some tool or viewer that allows to know the public works and infrastructures carried out, as well as data on the status, budget and evolution of the same.</td><td>N.a</td><td></td></tr>
+        <tr><td>3</td><td>he City Council has an Integral Territorial management system and/or urban planning.</td><td>N.a</td><td></td></tr>
 </table>
     </div>
      
