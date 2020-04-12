@@ -26,14 +26,14 @@ Access to information and active advertising</a></li>
       
 <h2> Municipality Transparency Delhi </h2>
 <h3> INFORMATION ON ELECTED OFFICIALS AND MUNICIPALITY STAFF </h3>
-<h4> (8 indicators) </h4>
+<h4> ( 2 out of 8 indicators) </h4>
 
 <table>
   <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
-  <tr><td>1</td><td>Mayor and Aldermen / Ediles of the Municipality: biographical data and C.V. are specified.</td><td>N.a</td></tr>
-   <tr><td>2</td><td>The email addresses of the Mayor and Aldermen / Ediles of the Municipality are specified.</td><td>N.a</td></tr>
+  <tr><td>1</td><td>Mayor and council members of the Municipality: biographical data and C.V. are specified.</td><td>N.a</td></tr>
+   <tr><td>2</td><td>The email addresses of the Mayor and council members of the Municipality are specified.</td><td>N.a</td></tr>
    <tr><td>3</td><td>A list of trusted positions (posts) of the municipality are published as well as their individual or collective amount of remuneration.</td><td>N.a</td></tr>
-  <tr><td>4</td><td>The remuneration of Mayor and Aldermen / Ediles are published.</td><td>N.a</td></tr>
+  <tr><td>4</td><td>The remuneration of Mayor and council members are published.</td><td>N.a</td></tr>
    <tr><td>5</td><td>The declaration of assets and property of the Mayor and Aldermen / Ediles are published.</td><td>N.a</td></tr>
   <tr><td>6</td><td>The organizational structure of the municipality is published.</td><td><a href="https://www.ndmc.gov.in/pdf/Organisation_Chart_NDMC.pdf">Link</a></td></tr>
   <tr><td>7</td><td>The agenda of municipal and civic activities is published.</td><td><a href="https://www.ndmc.gov.in/departments/Departments/Finance/NEW%20DELHI_050220.pdf">Link</a></td></tr>
@@ -73,7 +73,7 @@ Access to information and active advertising</a></li>
     <div id="menu1" class="tab-pane fade">
   <h3> OPEN DATA 100% </h3>
   <h4>OPEN DATA 100%</h4>
-  <h4>(1 of 1 indicators)</h4>
+  <h4>(0 of 1 indicators)</h4>
       <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
   <tr><td>1</td><td>There is an Open Data portal.</td><td>N.a</td><td></td></tr>
@@ -84,7 +84,7 @@ Access to information and active advertising</a></li>
     <div id="menu2" class="tab-pane fade">
   <h3>   ACCESS TO INFORMATION AND ACTIVE ADVERTISING 100%</h3>
   <h4>PUBLIC COMMUNICATION. 100%</h4>
-  <h4>(12 out of 12 indicators)</h4>
+  <h4>(7 out of 12 indicators)</h4>
       <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
   <tr><td>1</td><td>The institution has a web 2.0.</td><td><a href="https://www.ndmc.gov.in/">Link</a></td><td></td></tr>
@@ -110,7 +110,7 @@ Access to information and active advertising</a></li>
     <div id="menu3" class="tab-pane fade">
   <h3>CITIZEN PARTICIPATION AND COLLABORATION 66.67% </h3>
   <h4>INFORMATION AND DEGREE OF COMMITMENT WITH CITIZENSHIP 66.67%</h4>
-  <h4>(6 out of 9 indicators)</h4>
+  <h4>(2 out of 9 indicators)</h4>
      <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
   <tr><td>1</td><td>There are discussion forums on the municipal website.</td><td>N.a</td><td></td></tr>
@@ -169,7 +169,7 @@ Access to information and active advertising</a></li>
   <div id="menu6" class="tab-pane fade">
   <h4> PUBLIC WORKS AND URBAN PLANNING 33.33%</h4>
   <h5> URBAN PLANNING AND ZONING AGREEMENTS 100% </h5>
-  <h5>(2 out of 2 indicators)</h5>
+  <h5>(0 out of 2 indicators)</h5>
      <table>
     <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
   <tr><td>1</td><td>There is a visible section on the website dedicated to urbanism.</td><td>N.a</td><td></td></tr>
@@ -183,14 +183,14 @@ Access to information and active advertising</a></li>
         <tr><td>2</td><td>The projects, specifications and bidding criteria of the most important public works are published.</td><td>N.a</td><td></td></tr>
   </table>
   <h4> INFORMATION ON COMPETITORS, OFFERS AND RESOLUTIONS 0%</h4>
-  <h5>(0 out of 2 indicators)</h5>
+  <h5>(1 out of 2 indicators)</h5>
   <table>
       <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
     <tr><td>1</td><td>The list of companies that have participated in public works biddings is published.</td><td><a href="https://www.ndmc.gov.in/departments/Departments/Civil/Registered%20Contractors%20in%20Civil%20Department_08062017.pdf">Link</a></td><td></td></tr>
      <tr><td>2</td><td>The names of the companies that have executed the most important urbanization works are published.</td><td>N.a</td><td></td></tr>
   </table>
   <h4>MONITORING AND CONTROL OF THE EXECUTION OF WORKS 33.33%</h4>
-  <h5>(1 out of 3 indicators)</h5>
+  <h5>(0 out of 3 indicators)</h5>
   <table>
       <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
         <tr><td>1</td><td>Accurate information is provided on each of the major infrastructure projects that are in progress (Objectives of the work and municipal manager)</td><td>N.a</td><td></td></tr>
