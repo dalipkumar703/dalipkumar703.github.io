@@ -24,7 +24,7 @@ Access to information and active advertising</a></li>
   <div class="tab-content">
     <div id="home" class="tab-pane fade in active">
       
-<h2> Municipality Transparency Delhi </h2>
+<h2> Municipality Transparency Delhi 53%</h2>
 <h3> INFORMATION ON ELECTED OFFICIALS AND MUNICIPALITY STAFF 20%</h3>
 <h4> ( 2 out of 8 indicators) </h4>
 
@@ -81,7 +81,7 @@ Access to information and active advertising</a></li>
 
  </div>
     <div id="menu2" class="tab-pane fade">
-  <h3>   ACCESS TO INFORMATION AND ACTIVE ADVERTISING 58%</h3>
+  <h3>   ACCESS TO INFORMATION AND ACTIVE ADVERTISING 61%</h3>
   <h4>PUBLIC COMMUNICATION. 58%</h4>
   <h4>(7 out of 12 indicators)</h4>
       <table>
@@ -108,7 +108,7 @@ Access to information and active advertising</a></li>
     </div>
     <div id="menu3" class="tab-pane fade">
   <h3>CITIZEN PARTICIPATION AND COLLABORATION 22% </h3>
-  <h4>INFORMATION AND DEGREE OF COMMITMENT WITH CITIZENSHIP 66.67%</h4>
+  <h4>INFORMATION AND DEGREE OF COMMITMENT WITH CITIZENSHIP 22%</h4>
   <h4>(2 out of 9 indicators)</h4>
      <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
@@ -166,7 +166,7 @@ Access to information and active advertising</a></li>
 </table>
     </div>
   <div id="menu6" class="tab-pane fade">
-  <h4> PUBLIC WORKS AND URBAN PLANNING 33.33%</h4>
+  <h4> PUBLIC WORKS AND URBAN PLANNING 11%</h4>
   <h5> URBAN PLANNING AND ZONING AGREEMENTS 0% </h5>
   <h5>(0 out of 2 indicators)</h5>
      <table>
