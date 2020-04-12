@@ -148,8 +148,8 @@ Access to information and active advertising</a></li>
   <h5>(2 out of 2 indicators)</h5>
      <table>
        <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
-  <tr><td>1</td><td>There exist open, objective and transparent public contracting formulas or mechanism.</td><td>N.a</td><td></td></tr>
-   <tr><td>2</td><td>The contracting processes are public and open.</td><td>N.a</td><td></td></tr>
+  <tr><td>1</td><td>There exist open, objective and transparent public contracting formulas or mechanism.</td><td><a href="https://govtprocurement.delhi.gov.in/nicgep/app;jsessionid=185E285C6859C7BC37748727F639D3C5.geps3?page=BiddersManualKit&service=page">Link</a></td><td></td></tr>
+   <tr><td>2</td><td>The contracting processes are public and open.</td><td><a href="https://govtprocurement.delhi.gov.in/nicgep/app?page=Home&service=page">Link</a></td><td></td></tr>
   </table>
   <h4>  RELATIONS AND OPERATIONS WITH SUPPLIERS AND CONTRACTORS 0%</h4>
   <h5>(0 out of 1 indicators)</h5>
@@ -162,7 +162,7 @@ Access to information and active advertising</a></li>
   <h5>(1 out of 2 indicators)</h5>
   <table>
       <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
-     <tr><td>1</td><td>All the formalised contracts are published indicating the subject, the amount of bidding and award, the used procedure, the instruments through which it has been publicized, the number of participating tenderers in the procedure and the identity of the awardees.</td><td>N.a</td><td></td></tr>
+     <tr><td>1</td><td>All the formalised contracts are published indicating the subject, the amount of bidding and award, the used procedure, the instruments through which it has been publicized, the number of participating tenderers in the procedure and the identity of the awardees.</td><td><a href="https://govtprocurement.delhi.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page">Link</a></td><td></td></tr>
         <tr><td>2</td><td>The granted subsidies and public aids are published indicating their amount, objective or purpose, and beneficiaries.</td><td>N.a</td><td></td></tr>
 </table>
     </div>
