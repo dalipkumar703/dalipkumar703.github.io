@@ -9,7 +9,8 @@
 <body>
 
 <div class="container">
-  <h2>Index based on Dyntra Platform parameters</h2>
+  <h2>Municipality Transparency Index(<a href="https://www.dyntra.org/en/poi/london-united-kingdom/?prev=transparency-indices/world-cities/cities">based on Dyntra Platform parameters</a>)</h2>
+  <h3>North Delhi Municipal Corporation</h2>
   <ul class="nav nav-pills">
     <li class="active"><a data-toggle="pill" href="#home">Muncipality Transparency</a></li>
     <li><a data-toggle="pill" href="#menu1">Open Data</a></li>
