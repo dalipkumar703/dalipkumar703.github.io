@@ -40,8 +40,8 @@ Access to information and active advertising</a></li>
    <tr><td>8</td><td>A list of work posts in the municipality and the remuneration for each post is published.</td><td>N.a</td></tr>
   </table>
   
-<h3> INFORMATION ON THE ORGANIZATION AND PATRIMONY OF THE MUNICIPALITY 33%</h3>
-<h4> (1 out of 3 indicators) </h4>
+<h3> INFORMATION ON THE ORGANIZATION AND PATRIMONY OF THE MUNICIPALITY 66%</h3>
+<h4> (2 out of 3 indicators) </h4>
 
 <table>
   <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
@@ -82,7 +82,7 @@ Access to information and active advertising</a></li>
  </div>
     <div id="menu2" class="tab-pane fade">
   <h3>   ACCESS TO INFORMATION AND ACTIVE ADVERTISING 58%</h3>
-  <h4>PUBLIC COMMUNICATION. 100%</h4>
+  <h4>PUBLIC COMMUNICATION. 58%</h4>
   <h4>(7 out of 12 indicators)</h4>
       <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
