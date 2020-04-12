@@ -25,7 +25,7 @@ Access to information and active advertising</a></li>
     <div id="home" class="tab-pane fade in active">
       
 <h2> Municipality Transparency Delhi </h2>
-<h3> INFORMATION ON ELECTED OFFICIALS AND MUNICIPALITY STAFF </h3>
+<h3> INFORMATION ON ELECTED OFFICIALS AND MUNICIPALITY STAFF 20%</h3>
 <h4> ( 2 out of 8 indicators) </h4>
 
 <table>
@@ -40,7 +40,7 @@ Access to information and active advertising</a></li>
    <tr><td>8</td><td>A list of work posts in the municipality and the remuneration for each post is published.</td><td>N.a</td></tr>
   </table>
   
-<h3> INFORMATION ON THE ORGANIZATION AND PATRIMONY OF THE MUNICIPALITY</h3>
+<h3> INFORMATION ON THE ORGANIZATION AND PATRIMONY OF THE MUNICIPALITY 33%</h3>
 <h4> (1 out of 3 indicators) </h4>
 
 <table>
@@ -71,8 +71,7 @@ Access to information and active advertising</a></li>
 
    </div>
     <div id="menu1" class="tab-pane fade">
-  <h3> OPEN DATA 100% </h3>
-  <h4>OPEN DATA 100%</h4>
+  <h3> OPEN DATA 0% </h3>
   <h4>(0 of 1 indicators)</h4>
       <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
@@ -82,7 +81,7 @@ Access to information and active advertising</a></li>
 
  </div>
     <div id="menu2" class="tab-pane fade">
-  <h3>   ACCESS TO INFORMATION AND ACTIVE ADVERTISING 100%</h3>
+  <h3>   ACCESS TO INFORMATION AND ACTIVE ADVERTISING 58%</h3>
   <h4>PUBLIC COMMUNICATION. 100%</h4>
   <h4>(7 out of 12 indicators)</h4>
       <table>
@@ -108,7 +107,7 @@ Access to information and active advertising</a></li>
 </table>
     </div>
     <div id="menu3" class="tab-pane fade">
-  <h3>CITIZEN PARTICIPATION AND COLLABORATION 66.67% </h3>
+  <h3>CITIZEN PARTICIPATION AND COLLABORATION 22% </h3>
   <h4>INFORMATION AND DEGREE OF COMMITMENT WITH CITIZENSHIP 66.67%</h4>
   <h4>(2 out of 9 indicators)</h4>
      <table>
@@ -168,7 +167,7 @@ Access to information and active advertising</a></li>
     </div>
   <div id="menu6" class="tab-pane fade">
   <h4> PUBLIC WORKS AND URBAN PLANNING 33.33%</h4>
-  <h5> URBAN PLANNING AND ZONING AGREEMENTS 100% </h5>
+  <h5> URBAN PLANNING AND ZONING AGREEMENTS 0% </h5>
   <h5>(0 out of 2 indicators)</h5>
      <table>
     <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
@@ -182,14 +181,14 @@ Access to information and active advertising</a></li>
         <tr><td>1</td><td>Accurate information about the current legislation on urban management of the municipality is published.</td><td>N.a</td><td></td></tr>
         <tr><td>2</td><td>The projects, specifications and bidding criteria of the most important public works are published.</td><td>N.a</td><td></td></tr>
   </table>
-  <h4> INFORMATION ON COMPETITORS, OFFERS AND RESOLUTIONS 0%</h4>
+  <h4> INFORMATION ON COMPETITORS, OFFERS AND RESOLUTIONS 50%</h4>
   <h5>(1 out of 2 indicators)</h5>
   <table>
       <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
     <tr><td>1</td><td>The list of companies that have participated in public works biddings is published.</td><td><a href="https://www.ndmc.gov.in/departments/Departments/Civil/Registered%20Contractors%20in%20Civil%20Department_08062017.pdf">Link</a></td><td></td></tr>
      <tr><td>2</td><td>The names of the companies that have executed the most important urbanization works are published.</td><td>N.a</td><td></td></tr>
   </table>
-  <h4>MONITORING AND CONTROL OF THE EXECUTION OF WORKS 33.33%</h4>
+  <h4>MONITORING AND CONTROL OF THE EXECUTION OF WORKS 0%</h4>
   <h5>(0 out of 3 indicators)</h5>
   <table>
       <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
