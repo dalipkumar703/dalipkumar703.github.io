@@ -9,6 +9,7 @@
 <body>
 
 <div class="container">
+  <div class="row">
   <h2>Municipality Transparency Index(<a href="https://www.dyntra.org/en/poi/london-united-kingdom/?prev=transparency-indices/world-cities/cities">based on Dyntra Platform parameters</a>)</h2>
   <h3>North Delhi Municipal Corporation</h3>
   <ul class="nav nav-pills">
@@ -198,7 +199,7 @@ Access to information and active advertising</a></li>
         <tr><td>3</td><td>The City Council has an Integral Territorial management system and/or urban planning.</td><td>N.a</td><td></td></tr>
 </table>
     </div>
-     
+   </div>  
   </div>
 </div>
 
