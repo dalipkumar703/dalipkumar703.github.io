@@ -10,8 +10,8 @@
 
 <div class="container">
   <div class="row">
-  <h2>Municipality Transparency Index(<a href="https://www.dyntra.org/en/poi/london-united-kingdom/?prev=transparency-indices/world-cities/cities">based on Dyntra Platform parameters</a>)</h2>
-  <h3>North Delhi Municipal Corporation</h3>
+  <h2 class="row">Municipality Transparency Index(<a href="https://www.dyntra.org/en/poi/london-united-kingdom/?prev=transparency-indices/world-cities/cities">based on Dyntra Platform parameters</a>)</h2>
+  <h3 class="row">North Delhi Municipal Corporation</h3>
   <ul class="nav nav-pills">
     <li class="active"><a data-toggle="pill" href="#home">Muncipality Transparency</a></li>
     <li><a data-toggle="pill" href="#menu1">Open Data</a></li>
@@ -26,9 +26,9 @@ Access to information and active advertising</a></li>
   <div class="tab-content">
     <div id="home" class="tab-pane fade in active">
       
-<h2> Municipality Transparency Delhi 53%</h2>
-<h3> INFORMATION ON ELECTED OFFICIALS AND MUNICIPALITY STAFF 20%</h3>
-<h4> ( 2 out of 8 indicators) </h4>
+<h2 class="row"> Municipality Transparency Delhi 53%</h2>
+<h3 class="row"> INFORMATION ON ELECTED OFFICIALS AND MUNICIPALITY STAFF 20%</h3>
+<h4 class="row"> ( 2 out of 8 indicators) </h4>
 
 <table>
   <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
@@ -42,8 +42,8 @@ Access to information and active advertising</a></li>
    <tr><td>8</td><td>A list of work posts in the municipality and the remuneration for each post is published.</td><td>N.a</td></tr>
   </table>
   
-<h3> INFORMATION ON THE ORGANIZATION AND PATRIMONY OF THE MUNICIPALITY 66%</h3>
-<h4> (2 out of 3 indicators) </h4>
+<h3 class="row"> INFORMATION ON THE ORGANIZATION AND PATRIMONY OF THE MUNICIPALITY 66%</h3>
+<h4 class="row"> (2 out of 3 indicators) </h4>
 
 <table>
   <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
@@ -53,8 +53,8 @@ Access to information and active advertising</a></li>
 
   </table>
 
-<h3> INFORMATION ON MUNICIPAL RULES AND INSTITUTIONS 100% </h3>
-<h4> (3 out of 3 indicators) </h4>
+<h3 class="row"> INFORMATION ON MUNICIPAL RULES AND INSTITUTIONS 100% </h3>
+<h4 class="row"> (3 out of 3 indicators) </h4>
 
 <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
@@ -63,8 +63,8 @@ Access to information and active advertising</a></li>
   <tr><td>3</td><td>There exists a "code of ethics or good governance" and / or a transparency ordinance of the municipality and it is published.</td><td><a href="https://www.ndmc.gov.in/departments/Departments/council/The%20Gazette%20of%20India.pdf">Link</a></td><td></td></tr>
 </table>
 
-<h3> PLANNING AND ORGANIZATION OF THE MUNICIPALITY 100% </h3>
-<h4> (1 out of 1 indicators) </h4>
+<h3 class="row"> PLANNING AND ORGANIZATION OF THE MUNICIPALITY 100% </h3>
+<h4 class="row"> (1 out of 1 indicators) </h4>
 <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
   <tr><td>1</td><td>	The recruitment processes are published.</td><td><a href="https://www.ndmc.gov.in/departments/personnel_department.aspx">Link</a></td><td></td></tr>
@@ -83,9 +83,9 @@ Access to information and active advertising</a></li>
 
  </div>
     <div id="menu2" class="tab-pane fade">
-  <h3>   ACCESS TO INFORMATION AND ACTIVE ADVERTISING 61%</h3>
-  <h4>PUBLIC COMMUNICATION. 58%</h4>
-  <h4>(7 out of 12 indicators)</h4>
+  <h3 class="row">   ACCESS TO INFORMATION AND ACTIVE ADVERTISING 61%</h3>
+  <h4 class="row">PUBLIC COMMUNICATION. 58%</h4>
+  <h4 class="row">(7 out of 12 indicators)</h4>
       <table>
    <tr><td>S.no</td><td>Index Parameter</td><td>Link</td><td>Verified</td></tr>
   <tr><td>1</td><td>The institution has a web 2.0.</td><td><a href="https://www.ndmc.gov.in/">Link</a></td><td></td></tr>
