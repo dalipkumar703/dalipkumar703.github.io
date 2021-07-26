@@ -1,0 +1,31 @@
+let sortA = [8,7,6,1,0,9,2];
+
+function swap (sort, index, i){
+let temp = sort[index];
+sort[index] = sort[i];
+sort[i] = temp;
+}
+function partition(sort, a,b){
+let pivot = sort[b];
+let index = a;
+for (i = a ; i < b ; i++){
+ if (sort[i]< pivot){
+ swap(index, i);
+ index++;
+ }
+}
+swap(index, b);
+console.log("index",index)
+return index + 1;
+}
+function quickSort(sort, a,b){
+if (a < b){
+let pivot = partition(sort, a,b);
+console.log(pivot)
+quickSort(sort, a, pivot - 1);
+quickSort(sort, pivot + 1, b);
+}
+
+}
+quickSort(sortA, 0, sortA.length -1)
+console.log(sortA)
