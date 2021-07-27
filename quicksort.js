@@ -1,30 +1,37 @@
 let sortA = [8,7,6,1,0,9,2];
 
-function swap (sort, index, i){
+/* function swap (sort, index, i){
 let temp = sort[index];
 sort[index] = sort[i];
 sort[i] = temp;
 }
-function partition(sort, a,b){
+ */
+ function partition(sort, a,b){
 let pivot = sort[b];
 let index = a;
 for (i = a ; i < b ; i++){
  if (sort[i]< pivot){
- swap(index, i);
+let temp = sort[index];
+sort[index] = sort[i];
+sort[i] = temp;
  index++;
  }
 }
-swap(index, b);
+let temp = sort[index];
+sort[index] = sort[b];
+sort[b] = temp;
 console.log("index",index)
-return index + 1;
+return index;
 }
 function quickSort(sort, a,b){
-if (a < b){
+if (a > b){
+return;
+}
 let pivot = partition(sort, a,b);
-console.log(pivot)
+console.log(pivot);
 quickSort(sort, a, pivot - 1);
 quickSort(sort, pivot + 1, b);
-}
+
 
 }
 quickSort(sortA, 0, sortA.length -1)
