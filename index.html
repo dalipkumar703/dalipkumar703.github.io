@@ -1,21 +1,135 @@
 <html>
 <head>
-</head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.js"></script>
+  <style>
+    body {
+      background-color: #f4f4f9;
+      font-family: 'Helvetica Neue', sans-serif;
+    }
+    .jumbotron {
+      background-color: #333;
+      color: white;
+      padding: 50px;
+      margin-top: 30px;
+      border-radius: 15px;
+      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    }
+    .profile-img {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      margin-bottom: 20px;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    }
+    h1, h3 {
+      font-weight: 700;
+    }
+    h3 a {
+      margin: 0 10px;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+      font-size: 18px;
+    }
+    ul li a {
+      color: #00aaff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    ul li a:hover {
+      text-decoration: underline;
+    }
+    .project-card {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+      margin-bottom: 20px;
+    }
+    .project-card h4 {
+      font-weight: bold;
+      color: #007bff;
+    }
+    .project-card p {
+      color: #555;
+    }
+    .cta {
+      text-align: center;
+      margin-top: 40px;
+    }
+    .cta a {
+      background-color: #00aaff;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 20px;
+      font-weight: bold;
+    }
+    .cta a:hover {
+      background-color: #0088cc;
+    }
+    .contact-info {
+      text-align: center;
+      margin-top: 30px;
+    }
+    .contact-info p {
+      color: #333;
+      font-size: 18px;
+    }
+  </style>
+</head>
 <body>
+
   <div class="container">
-    <div class="jumbotron">
-<h1 align="center">Hello, I am Dalip.</h1>
-<h3 align="center">  <a href="https://twitter.com/dalipkumar703">twitter </a> <a href="https://medium.com/@dalipkumar703">medium </a> <a href="https://github.com/dalipkumar703">github </a> <a href="https://facebook.com/dalipkumar703">facebook</a>
-</h3>
-  <p align="center">I like to write programs sometimes in javascript, python and others. I wrote website scrapper for searching blogs on website in python. I wrote apps in javascript. Also, I am an environment enthusiast.</p>
-<h4 align="center">  <a href="https://dalipkumar703.github.io/learning.html">Learning</a> || <a href="https://dalipkumar703.github.io/research">Research</a></h4>
+    <div class="jumbotron text-center">
+      <img src="https://media.licdn.com/dms/image/v2/C5103AQFVzY9JJQ5K3w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1572276906391?e=1734566400&v=beta&t=IyS7FDfPp1ILW0Bcr5IiwiwJoQHBQeFbQC2tthu8kEU" alt="Dalip Profile Photo" class="profile-img">
+      <h1>Hello, I’m Dalip!</h1>
+      <p>Software Engineer | Entrepreneur | Environmental Enthusiast</p>
+      <h3>
+        <a href="https://twitter.com/dalipkumar703">Twitter</a> | 
+        <a href="https://medium.com/@dalipkumar703">Medium</a> | 
+        <a href="https://github.com/dalipkumar703">GitHub</a> | 
+        <a href="https://facebook.com/dalipkumar703">Facebook</a>
+      </h3>
+      <p>I have had the privilege to work with clients across the globe, including the USA, China, UK, and India, helping to build scalable solutions in ecommerce, healthcare, AI, and automation.</p>
+    </div>
+
+    <div class="project-card">
+      <h4>Building an Ecommerce Platform - <a href="https://rees52.com">Rees52</a></h4>
+      <p>Rees52 is an electronics components store where I was responsible for building the entire ecommerce platform from scratch, focusing on intuitive user experience and seamless transaction processes.</p>
+    </div>
+
+    <div class="project-card">
+      <h4>Creating a Healthcare Q&A Website - <a href="https://lybrate.com">Lybrate</a></h4>
+      <p>Lybrate enables patients to ask questions to doctors and receive instant healthcare advice. I developed the platform’s backend and front-end for smooth user interactions, scaling to support millions of users.</p>
+    </div>
+
+    <div class="project-card">
+      <h4>Developing an AI-driven Website - <a href="https://linkedinlearning.co.in">LinkedIn Learning</a></h4>
+      <p>Leveraging AI to personalize the learning experience, I built LinkedIn Learning’s core platform. This site empowers users to find educational content tailored to their skills and preferences.</p>
+    </div>
+
+    <div class="project-card">
+      <h4>Chrome Extension for LinkedIn Automation - <a href="https://chromewebstore.google.com/detail/mrs-m-linkedin-automation/bapjpamdjkdcpklcaajfjeidcloikogc?authuser=0&hl=en">MRS-M</a></h4>
+      <p>This Chrome extension helps users download LinkedIn leads efficiently, automating the lead generation process. I created the entire extension, from front-end design to back-end logic, to provide a seamless experience for professionals.</p>
+    </div>
+
+    <div class="cta">
+      <a href="https://dalipkumar703.github.io/learning.html">Check Out My Learning Journey</a>
+      <br><br>
+      <a href="https://dalipkumar703.github.io/research">Explore My Research Projects</a>
+    </div>
+
+    <div class="contact-info">
+      <p><strong>Contact me at:</strong> <a href="mailto:dalippublic@gmail.com">dalippublic@gmail.com</a></p>
+    </div>
   </div>
-  </div>
-    </body>
+
+</body>
 </html>
